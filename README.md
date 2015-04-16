@@ -2,7 +2,7 @@
 
 注：本人根据自己的开发习惯删除和修改了部分规范
 
-# JavaScript规范
+# JavaScript规范() {
 
 ## <a name='TOC'>内容列表</a>
 
